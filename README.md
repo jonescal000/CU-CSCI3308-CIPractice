@@ -1,7 +1,7 @@
 CU-CSCI3308-CIPractice
 ======================
 
-Assignment to practice the use of continuous integration tools.
+Assignment to practice the use of continuous integration toolss.
 
 ### Author
 Andy Sayler  
